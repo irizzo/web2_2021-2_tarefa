@@ -1,0 +1,23 @@
+*Descrição que está no discord*
+Uma breve descrição (apenas para adiantar):
+
+[CENÁRIO]
+Os alunos precisarão participar de atividades de extensão como extensionistas.  Ou seja, de alguma forma, eles precisam trabalhar em atividades de extensão e precisam ter 10% da carga horária do curso nessas atividades. No curso de sistemas, 10% corresponde a cerca de 306h que devem ser completadas durante o curso para que  o aluno possa se formar.
+O aluno pode participar de diferentes atividades (ex: elaboração/ministração de curso, criação de ferramentas, prestação de serviço para empresas externas, etc.) atreladas a projetos, eventos, cursos ou programas de extensão de professores ou funcionários.
+Cada atividade extensionista de cada aluno precisa ser avaliada para computo das horas.
+
+[Abordagem definida em sala para acompanhamento e computo de horas extensionistas]
+Definimos que:
+	1. cada aluno, ao eentrar em uma atividade extensionista, precisa se cadastrar no sistema. Então temos que ter o cadastro do aluno.
+	2. o responsável pela extensão precisa cadastrar a extensão ou selecioná-la se ela já tiver sido cadastrada anteriormente. Então ele cadastra as atividades que o aluno realizará e inclui o aluno nas atividades. Ele informa também a quantidade de horas semanais que o aluno trabalhará na extensão. Assim se inicia o vínculo e o aluno começa a ser acompanhado pela coordenação (ou seja, pelo comissão do curso responsável por essa tarefa).
+	3. O aluno deve submeter relatórios mensais sobre as atividades realizadas (ao fim de cada mês, ele descreve as atividades, indicando a quantidade de horas gasta em cada ação executada.
+	4. O responsável pela extensão precisa validar o relatório (o que pode ser apenas um "Ok" ou uma assinatura eletrônica).
+	5. A coordenação precisa ter como acompanhar os relatórios. E deve informar a quantidade de horas computadas para o aluno naquele mês.
+	6. O aluno deve ver a quantidade de horas de extensão que ele possui.
+	7. Ao final do vínculo de extensão, para concretização da carga horária do aluno para cada atividade (participação em extensão), o aluno deve incluir o certificado de participação como extensionista. 
+	8. Cabe a coordenação validar as horas de participação em um atividade, consolidando as horas mensais atribuídas ao aluno. Isso será feito após a apresentação do certificado final do aluno e após a verificação de não existir pendências dos relatórios mensais dos alunos.
+	9. Em caso de pendências de relatórios, o aluno deverá procurar o responsáel para que ambos incluam o relatório, atribua ao mês faltante para remoção da pendência. A coordenação também pode remover a pendência, mas precisará incluir uma justificativa, podendo até anexar documentos comprobatórios entregues pelo aluno para justificar a pendência.
+
+----------------------------------------------------------------------------------------------------------------------
+*Anotações da Descrição*
+carga horária total do curso de SI = 306*100 = 3600h
