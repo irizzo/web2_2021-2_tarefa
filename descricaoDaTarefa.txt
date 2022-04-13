@@ -4,9 +4,11 @@ Uma breve descrição (apenas para adiantar):
 [CENÁRIO]
 Os alunos precisarão participar de atividades de extensão como extensionistas.  Ou seja, de alguma forma, eles precisam trabalhar em atividades de extensão e precisam ter 10% da carga horária do curso nessas atividades. No curso de sistemas, 10% corresponde a cerca de 306h que devem ser completadas durante o curso para que  o aluno possa se formar.
 O aluno pode participar de diferentes atividades (ex: elaboração/ministração de curso, criação de ferramentas, prestação de serviço para empresas externas, etc.) atreladas a projetos, eventos, cursos ou programas de extensão de professores ou funcionários.
-Cada atividade extensionista de cada aluno precisa ser avaliada para computo das horas.
+
+Cada atividade extensionista de cada aluno precisa ser avaliada para cômputo das horas.
 
 [Abordagem definida em sala para acompanhamento e computo de horas extensionistas]
+
 Definimos que:
 	1. cada aluno, ao eentrar em uma atividade extensionista, precisa se cadastrar no sistema. Então temos que ter o cadastro do aluno.
 	2. o responsável pela extensão precisa cadastrar a extensão ou selecioná-la se ela já tiver sido cadastrada anteriormente. Então ele cadastra as atividades que o aluno realizará e inclui o aluno nas atividades. Ele informa também a quantidade de horas semanais que o aluno trabalhará na extensão. Assim se inicia o vínculo e o aluno começa a ser acompanhado pela coordenação (ou seja, pelo comissão do curso responsável por essa tarefa).
@@ -21,3 +23,19 @@ Definimos que:
 ----------------------------------------------------------------------------------------------------------------------
 *Anotações da Descrição*
 carga horária total do curso de SI = 306*100 = 3600h
+
+Coordenação se cadastra
+Responsável se cadastra
+Responsável cadastra atvd
+Aluno se cadastra
+o aluno é vinculado
+	enquanto vinculado deve enviar relatórios mensalmente
+o vínculo é validado pela coordenação
+Os relatórios são validados pelo responsável da extensão
+A coordenação vê os relatórios e deve cadastrar as horas do aluno de cada mês
+Quando o vínculo é encerrado, o aluno deve cadastrar o certificado. Após isso, a coordenação valida as horas cadastradas
+Verificar se existem pendências de relatórios; Se sim:
+	Ou o aluno + responsável cadastram os relatórios pendentes
+	Ou a coordenação retira a pendência perante justificativa
+
+O aluno pode ver a quantidade de horas de extensão que ele possui
